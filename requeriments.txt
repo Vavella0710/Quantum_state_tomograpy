@@ -1,0 +1,10 @@
+
+#paquetes necesatios
+numpy
+cmath
+networkx 
+matplotlib
+itertools 
+
+qiskit[visualization]
+qiskit-ibm-runtime
